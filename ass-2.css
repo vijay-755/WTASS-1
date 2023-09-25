@@ -1,0 +1,48 @@
+.padd{
+    margin:10px;
+}
+.para1{
+    padding-left:25px;
+}
+.backGrn{
+    background-color: white;
+}
+.back{
+    text-align: center;
+    padding: 15px;
+    padding-top: 10px;
+    width:100vw;
+    height:100px;
+    background-color: #CBD6E2;
+}
+.back1{
+    padding: 15px;
+    padding-top: 5px;
+    width:100vw;
+    height:30px;
+    background-color:#CAE7D3;
+}
+.back2{
+    padding: 5px;
+    padding-top: 0px;
+    width:60px;
+    background-color:#F5C26B;
+}
+.back3{
+    padding: 15px;
+    padding-top: 10px;
+    width:100vw;
+    background-color:#43A5BE;
+}
+.social{
+    background-color:#BE398D;
+    background-size: cover;
+    
+    width:100vw;
+    padding: 15px;
+    padding-top: 10px;
+    height:40px;
+}
+.d-flex{
+    display: flex;
+}
